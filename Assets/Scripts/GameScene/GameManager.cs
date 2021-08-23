@@ -94,7 +94,7 @@ public class GameManager : MonoBehaviour
         }; 
     }
 
-    #region Controll by keys
+    #region Control by keys
     void Update()
     {
         if (currentTileObject != null)
